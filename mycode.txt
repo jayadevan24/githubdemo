@@ -6,8 +6,3 @@ print("saomechanes")
 
 print(new line very latets change made now added by sanju)
 
-commit A
-
-commit B
-
-commit C
